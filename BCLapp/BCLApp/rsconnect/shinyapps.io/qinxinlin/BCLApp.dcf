@@ -1,0 +1,12 @@
+name: BCLApp
+title: BCLApp
+username:
+account: qinxinlin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 575357
+bundleId: 1703814
+url: https://qinxinlin.shinyapps.io/BCLApp/
+when: 1542343299.83526
+asMultiple: FALSE
+asStatic: FALSE
