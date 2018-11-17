@@ -5,13 +5,13 @@
 
 **Here is [link](https://qinxinlin.shinyapps.io/BCLapp/) of shiny app.**
 
-**Here is [likn]() of R code.
+**Here is [link](https://github.com/STAT545-UBC-students/hw08-QinxinLin/blob/master/BCLapp/BCLApp/app.R) of R code**.
 
 ## Some features I added:
 
 * filter by country
 
-* Can filter by type of product
+* filter by type of product
 
 * Add an image of the BC Liquor Store to the UI
 
